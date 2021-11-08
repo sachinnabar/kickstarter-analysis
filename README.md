@@ -38,18 +38,22 @@ Choosing correct formulae in excel to derive correct conclusion
 ## Results
 
 -What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Higher success ratio for Successful Theater Campaigns. 
 1/3rd of the Theater campgaigns were failed. 
 
 -What can you conclude about the Outcomes based on the Gaols?
+
 Successful Projects has more chances to be successful when the amount raised was below $19999
 Failed Projects above 25000 had lower percantage of failures
 
 
 -What are some limitations of this dataset?
+
 While analysing two sets not all factors taken into considerations
 two many data points have not generated accurate analysis
 
 -What are some other possible tables and /or graphs that we could create?
+
 Possibility of using pie chart or column graph for Outcome based on Goals
 
